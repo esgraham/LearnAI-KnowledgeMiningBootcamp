@@ -69,7 +69,7 @@ This demo is public and you can use with clients and partners.
 
 Here you can see a list of the resources used in this training. The [Azure Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) can be used for pricing estimation.
 Prices are estimates and are not intended as actual price quotes. Actual prices may vary depending upon the date of purchase, currency of payment, and type of agreement you enter with Microsoft. Contact a Microsoft sales representative for additional information on pricing.
-**The estimated daily cost of this training, with the provided dataset, is close to US$ 20,00.**  
+**The estimated daily cost of this training, with the provided dataset, is close to US$ 2.00**  
 
 | Item | Detail | Description
 |-------|----------|----------|
